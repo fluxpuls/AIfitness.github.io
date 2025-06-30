@@ -4,7 +4,7 @@ Welcome to the **FluxPuls AI Mind-Body Fitness** project!
 
 ## Our Mission
 
-Our mission is to open a state-of-the-art fitness center in NYC that combines advanced AI solutions with motivational programs and natural performance-enhancing nutrition.
+Our mission is to open a state-of-the-art fitness center that combines advanced AI solutions with motivational programs and natural performance-enhancing nutrition.
 
 ## Join Us on Our Journey
 
